@@ -1,0 +1,40 @@
+body{
+    background-color:orange;
+    text-align: center;
+}
+
+a{
+    font-size:30px;
+}
+
+h1{
+    background-color:black;
+    color:White;
+    width:50%;
+    margin-left: 25%;
+    border-style:solid;
+    border-width :15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 30px;
+}
+
+.border-img{
+    border-style: double;
+    border-width:15px ;
+    color:yellow;
+}
+
+table{
+    width:75%;
+    margin-left:12.5%;
+    border:3px solid black;
+    color:black;
+    font-size:30px;
+}
+
+th, td{
+    border:3px solid yellow;
+}
